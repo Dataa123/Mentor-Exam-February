@@ -1,0 +1,5 @@
+function linear_search(arr, search_element)
+    for i in range(len(arr))
+        if arr[i] is equal to search_element
+            return i
+    return -1
